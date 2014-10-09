@@ -1,0 +1,8 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppRadioButton2\AppRadioButton2\bin\Debug\AppRadioButton2.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppRadioButton2\AppRadioButton2\bin\Debug\AppRadioButton2.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppRadioButton2\AppRadioButton2\bin\Debug\AppRadioButton2.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppRadioButton2\AppRadioButton2\obj\Debug\AppRadioButton2.Form1.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppRadioButton2\AppRadioButton2\obj\Debug\AppRadioButton2.Properties.Resources.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppRadioButton2\AppRadioButton2\obj\Debug\AppRadioButton2.csproj.GenerateResource.Cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppRadioButton2\AppRadioButton2\obj\Debug\AppRadioButton2.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppRadioButton2\AppRadioButton2\obj\Debug\AppRadioButton2.pdb

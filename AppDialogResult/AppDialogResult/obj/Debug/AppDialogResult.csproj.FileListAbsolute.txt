@@ -1,0 +1,8 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppDialogResult\AppDialogResult\bin\Debug\AppDialogResult.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppDialogResult\AppDialogResult\bin\Debug\AppDialogResult.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppDialogResult\AppDialogResult\bin\Debug\AppDialogResult.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppDialogResult\AppDialogResult\obj\Debug\AppDialogResult.Form1.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppDialogResult\AppDialogResult\obj\Debug\AppDialogResult.Properties.Resources.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppDialogResult\AppDialogResult\obj\Debug\AppDialogResult.csproj.GenerateResource.Cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppDialogResult\AppDialogResult\obj\Debug\AppDialogResult.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppDialogResult\AppDialogResult\obj\Debug\AppDialogResult.pdb

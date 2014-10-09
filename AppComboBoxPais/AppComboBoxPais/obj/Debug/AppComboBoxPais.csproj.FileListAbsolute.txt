@@ -1,0 +1,9 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppComboBoxPais\AppComboBoxPais\bin\Debug\AppComboBoxPais.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppComboBoxPais\AppComboBoxPais\bin\Debug\AppComboBoxPais.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppComboBoxPais\AppComboBoxPais\bin\Debug\AppComboBoxPais.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppComboBoxPais\AppComboBoxPais\obj\Debug\AppComboBoxPais.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppComboBoxPais\AppComboBoxPais\obj\Debug\AppComboBoxPais.Form1.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppComboBoxPais\AppComboBoxPais\obj\Debug\AppComboBoxPais.Properties.Resources.resources
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppComboBoxPais\AppComboBoxPais\obj\Debug\AppComboBoxPais.csproj.GenerateResource.Cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppComboBoxPais\AppComboBoxPais\obj\Debug\AppComboBoxPais.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppComboBoxPais\AppComboBoxPais\obj\Debug\AppComboBoxPais.pdb

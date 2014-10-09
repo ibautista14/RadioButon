@@ -1,0 +1,9 @@
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppRojoVerdeAzul\AppRojoVerdeAzul\bin\Debug\AppRojoVerdeAzul.exe.config
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppRojoVerdeAzul\AppRojoVerdeAzul\bin\Debug\AppRojoVerdeAzul.exe
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppRojoVerdeAzul\AppRojoVerdeAzul\bin\Debug\AppRojoVerdeAzul.pdb
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppRojoVerdeAzul\AppRojoVerdeAzul\obj\Debug\AppRojoVerdeAzul.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppRojoVerdeAzul\AppRojoVerdeAzul\obj\Debug\AppRojoVerdeAzul.Form1.resources
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppRojoVerdeAzul\AppRojoVerdeAzul\obj\Debug\AppRojoVerdeAzul.Properties.Resources.resources
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppRojoVerdeAzul\AppRojoVerdeAzul\obj\Debug\AppRojoVerdeAzul.csproj.GenerateResource.Cache
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppRojoVerdeAzul\AppRojoVerdeAzul\obj\Debug\AppRojoVerdeAzul.exe
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppRojoVerdeAzul\AppRojoVerdeAzul\obj\Debug\AppRojoVerdeAzul.pdb
